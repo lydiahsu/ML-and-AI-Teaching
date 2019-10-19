@@ -24,7 +24,9 @@ Whether you are ML/AI-novice or -savvy, I hope you find fun and useful material 
 
 # Python, Scikit-learn and Machine Learning
 [Introductory Notebook](https://github.com/lydiahsu/SHP_Fall_2019/blob/master/Intro_Notebooks_and_Python.ipynb)
+
 [Scikit-learn ML Road Map](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+
 [Tutorials](https://scikit-learn.org/stable/tutorial/basic/tutorial.html#)
 
 
