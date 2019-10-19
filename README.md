@@ -33,7 +33,8 @@ Whether you are Statistics/ML/AI-novice or -savvy, I hope you find fun and usefu
 # Tensorflow and Deep Learning
 [Introduction to TF 2.0](https://github.com/lydiahsu/AML_Fall_2019/blob/master/Intro_TensorFlow2.ipynb)
 
-
+# Regression and Deep Learning
+[Slides](https://drive.google.com/open?id=1pX8QPoKZzCVmE3O-_NqKCJCNE1gEzsmJ)
 
 <!-- 
 ### Markdown
