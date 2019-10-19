@@ -12,12 +12,13 @@ Whether you are ML/AI-novice or -savvy, I hope you find fun and useful material 
 
 - Python, Scikit-learn and Machine Learning
 - Tensorflow and Deep Learning
-- Regression and Neural Nets
+- Regression
+- Generalized Linear Models
 - Classification 
-- OpenAI Gym
 - Generative Models
 - Generative Adversarial Networks
 - Reinforcement Learning
+- OpenAI Gym
 - Natural Language Processing
 - Recommendation Systems
 
