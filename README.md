@@ -29,6 +29,8 @@ Whether you are ML/AI-novice or -savvy, I hope you find fun and useful material 
 
 [Scikit-learn ML Road Map](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 
+# Tensorflow and Deep Learning
+[Introduction to TF 2.0](https://github.com/lydiahsu/AML_Fall_2019/blob/master/Intro_TensorFlow2.ipynb)
 
 
 
