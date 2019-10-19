@@ -1,4 +1,4 @@
-## Welcome to ML and AI
+## Welcome to Statistics, Machine Learning and Artificial Intelligence
 
 <!-- You can use the [editor on GitHub](https://github.com/lydiahsu/ML-and-AI-teaching/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -6,10 +6,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 -->
 
 This is a collection of teaching materials that I have used in the past. 
-Whether you are ML/AI-novice or -savvy, I hope you find fun and useful material from this website!
+Whether you are Statistics/ML/AI-novice or -savvy, I hope you find fun and useful material from this website!
 
 ## Outline of Topics
 
+- Statistics Concepts
 - Python, Scikit-learn and Machine Learning
 - Tensorflow and Deep Learning
 - Regression
