@@ -22,6 +22,11 @@ Whether you are ML/AI-novice or -savvy, I hope you find fun and useful material 
 - Natural Language Processing
 - Recommendation Systems
 
+# Python, Scikit-learn and Machine Learning
+[Introductory Notebook:]
+(https://github.com/lydiahsu/SHP_Fall_2019/blob/master/Intro_Notebooks_and_Python.ipynb)
+
+<!-- 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -53,3 +58,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-->
