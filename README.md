@@ -5,6 +5,22 @@
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. 
 -->
 
+This is a collection of teaching materials that I have used in the past. 
+Whether you are a ML/AI-novice or -savvy, I hope you find fun and useful material from this website!
+
+## Outline of Topics
+
+- Python, Scikit-learn and Machine Learning
+- Tensorflow and Deep Learning
+- Regression and Neural Nets
+- Classification 
+- OpenAI Gym
+- Generative Models
+- Generative Adversarial Networks
+- Reinforcement Learning
+- Natural Language Processing
+- Recommendation Systems
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
