@@ -7,6 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 This is a collection of teaching materials that I have used in the past. 
 Whether you are Statistics/ML/AI-novice or -savvy, I hope you find fun and useful material from this website!
+
 https://lydiahsu.github.io/Stats-ML-AI-Teaching/
 
 ## Outline of Topics
