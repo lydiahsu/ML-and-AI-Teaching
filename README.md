@@ -36,6 +36,15 @@ Whether you are Statistics/ML/AI-novice or -savvy, I hope you find fun and usefu
 # Regression 
 Overview of ML and AI problems: [Slides](https://drive.google.com/open?id=1pX8QPoKZzCVmE3O-_NqKCJCNE1gEzsmJ)
 
+# Reinforcement Learning and OpenAI Gym
+Overview: [Slides](https://drive.google.com/open?id=1kdCPa-t7Fxf64TIKEuusoL1Y8oEpcjQn)
+
+# Natural Language Processing
+Overview: [Slides](https://drive.google.com/open?id=1Jram190PVhZY3hACKdbB2nkqvcQc_5Pa)
+
+# Recommendation Systems
+Overview: [Slides](https://drive.google.com/open?id=1mKVGscVgunVe7bwvYXHcHEKT4ZIoMk1t)
+
 <!-- 
 ### Markdown
 
